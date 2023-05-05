@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIAddon>
+    <AutoStart>True</AutoStart>
+    <Name>ATOHelper</Name>
+    <Description>Retranslate astral data to a public server</Description>
+    <ScriptFileRefs>
+        <Item href="Scripts/Main.lua"/>
+    </ScriptFileRefs>
+</UIAddon>
